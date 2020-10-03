@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /author/
+Allow: /wp-admin/admin-ajax.php
+
+noindex:/author/
+noindex:/author/mramos/
+
+disallow: /nuevo-video-de-los-rugbiers-juegan-con-handy-y-cachiporra-de-la-policia/amp/
+disallow: /tag/walter-mercuri/amp/
+disallow: /estudiantes-podria-sumar-a-otro-ex-jugador-de-la-seleccion-argentina/amp/
+disallow: /esta-es-la-zapatilla-con-la-que-mataron-a-fernando-baez-sosa/amp/
+disallow: /suicidio-en-rio-gallegos-una-joven-denuncio-sufrir-abuso-sexual-pero-al-no-recibir-ayuda-se-quito-la-vida/amp/
+disallow: /empapelan-la-escuela-donde-asistio-fernando-baez-sosa-pidiendo-justicia/amp/
+disallow: /crimen-de-fernando-la-autopsia-determino-que-murio-por-un-fuerte-traumatismo-de-craneo/amp/
+disallow: /la-emotiva-despedida-de-la-novia-de-fernando-voy-a-contar-por-los-dos-para-siempre/amp/
+disallow: /tag/rosalia-zarate/amp/
+disallow: /conoce-a-sophie-wessex-la-elegida-de-la-reina-isabel-ii-para-reemplazar-a-meghan-markle/amp/
+disallow: /mar-del-plata-conmocion-por-la-muerte-del-actor-fernando-javier-alonso-en-el-hotel-provincial/amp/
+disallow: /la-reina-isabel-ii-convoca-a-una-reunion-familiar-para-analizar-el-futuro-de-harry-y-meghan/amp/
+disallow: /se-entregaron-los-premio-grammy-y-billie-eilish-se-llevo-5/amp/
+disallow: /72-horas-claves-en-la-causa-por-el-crimen-de-fernando-baez-sosa/amp/
+disallow: /los-rugbiers-que-mataron-a-fernando-fueron-visitados-por-sus-padres/amp/
+disallow: /temor-confirman-el-primer-caso-de-coronavirus-fuera-de-asia/amp/
+disallow: /renuncia-a-su-cargo-en-el-municipio-la-madre-de-maximo-thomsen-uno-de-los-principales-acusados-del-crimen-de-fernando/amp/
+disallow: /el-llanto-de-la-mama-de-ventura-tras-su-liberacion/amp/
+disallow: /el-audio-de-uno-de-los-rugbiers-que-reconoce-su-responsabilidad-me-hago-cargo/amp/
+disallow: /marcha-en-recoleta-por-fernando-que-paguen-esos-criminales-lo-que-hicieron/amp/
